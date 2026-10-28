@@ -4,7 +4,7 @@
 
 **零第三方依赖** —— 后端只用 Python 标准库，前端是原生 HTML/CSS/JS。不做云端同步，不联网，所有数据都在你自己的硬盘上。
 
-![界面预览](docs/screenshot.png)
+![界面预览](screenshot.png)
 
 ---
 
